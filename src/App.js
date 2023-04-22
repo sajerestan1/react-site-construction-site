@@ -25,7 +25,6 @@ function App() {
       <About/>
       <Fact/>
       <Service/>
-      <Video/>
       <Team/>
       <Faqs/>
       <Blog/>
