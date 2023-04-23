@@ -8,7 +8,6 @@ import { Carousel } from './components/Carousel';
 import { About } from './components/About';
 import { Fact } from './components/Fact';
 import { Service } from './components/Service';
-import { Video } from './components/Video';
 import { Team } from './components/Team';
 import { Faqs } from './components/Faqs';
 import { Blog } from './components/Blog';
